@@ -1,0 +1,5 @@
+-1) git clone [endereco Git hub] - clone todo o repositorio da nuvem para pasta local
+0) git status - da status do repositorio
+1) git add -a : adiciona todos os arquivos
+2) git commit -m : comita com comentarios
+3) git push origin main : envia todos os comandos para o GitHub
